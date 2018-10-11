@@ -48,3 +48,8 @@
 **测试报告**
 
     build/reports/tests/test/index.html
+   
+**编码设置**
+
+    compileJava.options.encoding='UTF-8'
+    compileTestJava.options.encoding='UTF-8'
