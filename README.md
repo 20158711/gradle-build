@@ -44,3 +44,7 @@
         testCompile 'junit:junit:4.12'
     //    testCompile 'group': 'junit', 'name': 'junit', 'version':'4.12'
     }
+    
+**测试报告**
+
+    build/reports/tests/test/index.html
